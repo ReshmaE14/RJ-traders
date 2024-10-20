@@ -1,0 +1,37 @@
+{
+    "section": {
+      "title": "Why Choose Us!",
+      "subtitle": "Our Specialization And Company Features",
+      "description": "We understand that tearing down a home or residential structure is a significant decision. Our demolition services are designed to provide a safe, efficient, and stress-free process.",
+      "features": [
+        {
+          "title": "Safety First",
+          "description": "Our team follows strict safety protocols to ensure a safe working environment",
+          "icon": "fa fa-check"
+        },
+        {
+          "title": "Experience",
+          "description": "With years of expertise in demolishing structures of all sizes, we bring industry knowledge and precision to every project.",
+          "icon": "fa fa-check"
+        },
+        {
+          "title": "Licensed & Insured",
+          "description": "We are a fully licensed and insured demolition contractor, providing peace of mind for our clients",
+          "icon": "fa fa-check"
+        },
+        {
+          "title": "Eco-Friendly Practices",
+          "description": "We ensure responsible waste disposal and recycling, minimizing environmental impact",
+          "icon": "fa fa-check"
+        }
+      ],
+      "images": {
+        "main": "/assets/about.jpg",
+        "feature": "/assets/feature.jpg",
+        "experience": {
+          "years": 25,
+          "text": "Years Experience"
+        }
+ }
+}
+}

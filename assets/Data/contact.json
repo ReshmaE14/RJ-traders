@@ -1,0 +1,40 @@
+{
+    "header": {
+      "title": "Contact Us",
+      "breadcrumb": [
+        { "text": "Home", "link": "/" },
+        { "text": "Contact" }
+      ],
+      "backgroundImage": "/assets/carousel-1.jpg"
+    },
+    "contacts": [
+      {
+        "image": "/assets/team-1.jpg",
+        "name": "Full Name",
+        "role": "Head of Sales",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "phone": "+012 345 6789",
+        "email": "sales@example.com"
+      },
+      {
+        "image": "/assets/team-2.jpg",
+        "name": "Full Name",
+        "role": "Head of Marketing",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+        "phone": "+012 345 6789",
+        "email": "marketing@example.com"
+      }
+    ],
+    "mapUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d56288.5431546432!2d80.09835212385312!3d13.000349553158737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a5261e4888f297b%3A0x88ad13929c80c4ff!2sRJ%20Traders%20Building%20Demolition%20Residential%20%26%20Commercial%20Building%20Demolition%20Contractors%20in%20Chennai%20%7C!5e1!3m2!1sen!2sin!4v1729157842669!5m2!1sen!2sin",
+    "form": {
+      "title": "If You Have Any Query, Please Contact Us",
+      "description": "We’d love to hear from you...",
+      "fields": [
+        { "label": "Your Name", "type": "text", "id": "name" },
+        { "label": "Your Email", "type": "email", "id": "email" },
+        { "label": "Subject", "type": "text", "id": "subject" },
+        { "label": "Message", "type": "textarea", "id": "message" }
+      ],
+      "buttonText": "Send Message"
+}
+}

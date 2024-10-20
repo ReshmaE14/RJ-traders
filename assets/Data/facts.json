@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Residential Demolition",
+      "image": "/assets/fact-1.jpg",
+      "description": "Whether you're demolishing a single home or preparing a site for new development, we provide reliable and efficient residential demolition services"
+    },
+    {
+      "id": 2,
+      "title": "Commercial Demolition",
+      "image": "/assets/fact-2.jpg",
+      "description": "From small commercial spaces to large office buildings, we manage every phase of the commercial demolition process with precision"
+    },
+    {
+      "id": 3,
+      "title": "Interior Demolition",
+      "image": "/assets/fact-3.jpg",
+      "description": "For renovation projects, we handle interior demolition, removing walls, flooring, and fixtures without affecting the building’s exterior"
+    },
+    {
+      "id": 4,
+      "title": "Selective Demolition",
+      "image": "/assets/fact-4.jpg",
+      "description": "Need to remove only a portion of a building? We offer selective demolition to carefully remove targeted areas without damaging the rest of the structure"
+}
+]

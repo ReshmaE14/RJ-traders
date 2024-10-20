@@ -1,0 +1,23 @@
+{
+    "contact": {
+      "title": "Contact Us",
+      "breadcrumb": "Contact",
+      "backgroundImage": "/assets/carousel-1.jpg"
+    },
+    "about": {
+      "title": "About Us",
+      "breadcrumb": "About",
+      "backgroundImage": "/assets/carousel-1.jpg"
+    },
+    "services": {
+      "title": "Our Services",
+      "breadcrumb": "Services",
+      "backgroundImage": "/assets/carousel-1.jpg"
+    },
+    "Terms and Conditions": {
+        "title": "Terms and Conditions",
+        "breadcrumb": "Terms and Conditions",
+        "backgroundImage": "/assets/carousel-1.jpg"
+      }
+  }
+  

@@ -1,0 +1,19 @@
+{
+    "image": "/assets/about.jpg",
+    "experience": {
+      "years": 25,
+      "text": "Years",
+      "subtext": "Experience"
+    },
+    "heading": "Safely demolishing structures, creating clean slates for future growth!",
+    "description": [
+      "We specialize in efficient and safe demolition services for residential, commercial, and industrial buildings.",
+      "With years of experience in the demolition industry, our team is equipped with the latest tools and technology to handle projects of any scale."
+    ],
+    "features": [
+      "Licensed & Insured",
+      "Eco-Friendly Practices",
+      "Affordable Rates"
+    ]
+  }
+  
