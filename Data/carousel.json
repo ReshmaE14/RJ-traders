@@ -1,0 +1,19 @@
+[
+    {
+      "image": "/assets/carousel-1.jpg",
+      "title": "Expert demolition services, creating safe, sustainable spaces for tomorrow",
+      "subtitle": "Welcome to RJ building demolisher",
+      "tags": ["Commercial", "Residential", "Industrial"],
+      "buttonText": "Contact us",
+      "link": "/contactus"
+    },
+    {
+      "image": "/assets/carousel-2.jpg",
+      "title": "Efficient demolitions, responsible practices, creating space for innovation",
+      "subtitle": "Welcome to RJ building demolisher",
+      "tags": ["Commercial",  "Residential", "Industrial"],
+      "buttonText": "Contact us",
+      "link": "/contactus"
+    }
+  ]
+  
